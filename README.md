@@ -1,4 +1,4 @@
-# ASSIGNMENT: Photo Gallery
+# Dart & Flutter - Module 12 Assignment: Photo Gallery
 
 A new Flutter project.
 
