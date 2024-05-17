@@ -1,4 +1,4 @@
-# photo_gallery
+# ASSIGNMENT: Photo Gallery
 
 A new Flutter project.
 
